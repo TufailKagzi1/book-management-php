@@ -55,6 +55,15 @@ book-management-php/
 2. Import the SQL file if available
 3. Update `dbconnect.php` with your DB credentials
 
+## 🎥 Demo & Setup Video
+
+Watch the setup and working demo of the Book Management System:
+
+[![Watch Demo](https://img.youtube.com/vi/Qa-_iGTB8rU/0.jpg)](https://www.youtube.com/watch?v=Qa-_iGTB8rU&ab_channel=Projectgeeks)
+
+> 📺 Click the image above or [watch it on YouTube](https://www.youtube.com/watch?v=Qa-_iGTB8rU&ab_channel=Projectgeeks)
+
+
 ## 📄 License
 
 Licensed under the MIT License – see [`LICENSE`](./LICENSE) for details.
